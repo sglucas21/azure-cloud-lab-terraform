@@ -1,0 +1,5 @@
+subscription_id = "00000000-0000-0000-0000-000000000000"
+location        = "eastus"
+my_public_ip    = "YOUR_PUBLIC_IP"
+admin_username  = "azureadmin"
+admin_password  = "DO_NOT_COMMIT_REAL_PASSWORD"
