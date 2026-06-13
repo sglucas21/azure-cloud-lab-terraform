@@ -9,6 +9,7 @@ The objective was to simulate a secure multi-tier cloud environment, validate ne
 ---
 
 ## Architecture
+![High-Level Architecture](images/architecture.png)
 
 The environment consists of:
 
