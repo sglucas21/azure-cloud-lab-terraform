@@ -1,5 +1,7 @@
 # Azure Infrastructure Automation Lab
 
+Test update
+
 ## Overview
 
 This project demonstrates how a manually deployed Azure environment can be transformed into a fully automated Infrastructure as Code (IaC) deployment using Terraform, GitHub Actions, and Azure OpenID Connect (OIDC) authentication.
