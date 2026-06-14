@@ -1,6 +1,5 @@
 # Azure Infrastructure Automation Lab
 
-Test update
 
 ## Overview
 
